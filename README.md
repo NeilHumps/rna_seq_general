@@ -1,2 +1,2 @@
 # rna_seq_general
-Genera
+Generic RNA-seq analysis pipeline
